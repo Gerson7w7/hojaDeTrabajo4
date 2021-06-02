@@ -50,3 +50,4 @@ myResult = myCursor.fetchall()
 
 for x in myResult:
     print(x)
+
